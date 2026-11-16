@@ -1,0 +1,7 @@
+node_modules/
+dist/
+target/
+.env
+.vscode/launch.json
+*.log
+uploads/
