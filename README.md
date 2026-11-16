@@ -88,3 +88,27 @@ Defect body:
 Test the lockout: POST /api/auth/login with a wrong password 5 times, then once with the right one. You get 401 with the lock message. Open the Security log as Admin to see all attempts.
 
 Sharing: email carries the full report. The WhatsApp button opens WhatsApp with a ready message (summary plus link); you press Send. The link only opens for others when FRONTEND_URL points to a hosted address.
+
+
+## Application Screenshots
+
+### Dashboard for Users
+![Dashboard](frontend/screenshots/user_dashboard.png)
+
+### Dashboard for Admin
+![Admin Dashboard](frontend/screenshots/admin_dashboard.png)
+
+### Login Page
+![Login Page](frontend/screenshots/login_form.png)
+
+### Registeration Page
+![Registeration Page](frontend/screenshots/registeration_form.png)
+
+### Defect Management
+![Defect Management](frontend/screenshots/defects.png)
+
+### My Account
+![My Account](frontend/screenshots/myaccount.png)
+
+### Drawing section
+![Drawing section](frontend/screenshots/drawing_section.png)
